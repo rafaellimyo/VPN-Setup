@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img <img width="400" height="200" alt="Clzj7Xs" src="https://thvnext.bing.com/th/id/OIP.Vfm1SP-ivJtBG1xJIfCPNQHaEK?w=252&h=180&c=7&r=0&o=7&cb=12&dpr=1.5&pid=1.7&rm=3&ucfimg=1" />
+  <img <img width="300" height="200" alt="Clzj7Xs" src="https://thvnext.bing.com/th/id/OIP.Vfm1SP-ivJtBG1xJIfCPNQHaEK?w=252&h=180&c=7&r=0&o=7&cb=12&dpr=1.5&pid=1.7&rm=3&ucfimg=1" />
 
 </h1>
 
